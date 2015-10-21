@@ -1,0 +1,5 @@
+try: list.o Techna.o main.o
+	cc *.o -o project
+	clear
+	./project
+
